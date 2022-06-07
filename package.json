@@ -1,0 +1,25 @@
+{
+  "name": "curso-practico-apirest",
+  "version": "1.0.0",
+  "description": "Movie streaming \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Creacion de movie streaming con API REST\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Donsumiendo API REST con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrigitteLeal/movie-streaming.git"
+  },
+  "keywords": [
+    "javascript",
+    "HTML",
+    "CSS",
+    "API"
+  ],
+  "author": "Brigitte Leal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrigitteLeal/movie-streaming/issues"
+  },
+  "homepage": "https://github.com/BrigitteLeal/movie-streaming#readme"
+}
